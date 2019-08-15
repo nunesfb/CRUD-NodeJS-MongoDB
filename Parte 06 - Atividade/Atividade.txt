@@ -1,0 +1,10 @@
+Criar um sistema em NodeJS com MongoDB que contenha um modelo chamado Pessoa com os seguintes atributos:
+
+--> Nome: texto, obrigatório e único;
+--> Idade: número e obrigatório, com valor mínimo de 18 e máximo de 150;
+--> Características que contenha dois atributos dentro: 
+	--> Peso: número e obrigatório, com valor mínimo de 0 e máximo de 1000;
+	--> Altura: número e obrigatório, com valor mínimo de 0 e máximo de 3;
+--> Registro: data e grave a data atual do registro;
+
+O sistema deverá permitir a inserção de registros, assim como a atualização e remoção. Também deverá possibilitar a apresentação dos dados gerais de forma paginada com limite de 10 registros por página, assim como mostrar em detalhes um registro.

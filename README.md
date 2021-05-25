@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Curso de NodeJS - Módulo 02
+  Curso de NodeJS com MongoDB
 </h3>
 
 <p align="center">Estes códigos pertencem à playlist de vídeos do canal TecEdu4All no YouTube</p> 

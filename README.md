@@ -16,6 +16,7 @@
 ## 💻 Playlist
 
 - [Curso de NodeJS com MongoDB](https://www.youtube.com/watch?v=0ZtYQLoCkmQ&list=PL2hDwB8DzXGNLdf31ilTYi9yKs3mf62WQ)
+- [Curso de ReactJS com MongoDB](https://www.youtube.com/playlist?list=PL2hDwB8DzXGMgUuBmNVxy0JDvkMptphSa&disable_polymer=true)
 
 ## ✋🏻 Pré-requisitos
 
